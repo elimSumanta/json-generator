@@ -1,0 +1,54 @@
+ID,Shop Name,ShopID,Dummy ShopID,Background Color,Background Image,Is Dark,Text Color,Widget Header BG Color ,Product Highlight,Banner Tambahan,Kupon Slug,Status
+1,h0n3yd3L1gthOS,12469342,-,"#787875,#000000",https://images.tokopedia.net/img/exclusive-launch/bg-pattern-light.png,TRUE,#FFFFFF,#000000,"[{""title"":""Be The First To Share The Epic"",
+""group_order"":1}]","[{
+    ""name"": ""slider_banner"",
+    ""ratio"": ""1:1"",
+    ""title"":""Epic Specification"",
+    ""data"": [{
+        ""image_id"": ""39ddb42f-fb20-4262-a94b-be9322f820cc"",
+        ""image_url"":""https://images.tokopedia.net/img/cache/850/BgtCLw/2023/7/12/a429c140-cbc8-4721-af1d-bf0f98538432.jpg"",
+        ""link_id"":10855009848,
+        ""link_type"":""product""
+    }]
+},{
+  ""name"": ""slider_square"",
+    ""ratio"": ""1:1"",
+    ""title"":"""",
+    ""data"": [{
+        ""image_id"": ""9327bc6b-87de-44df-9b3c-a797faa331a5"",
+        ""image_url"":""https://images.tokopedia.net/img/cache/850/BgtCLw/2023/7/12/52838440-df9d-491f-bbd9-1d930502e21e.jpg"",
+        ""link_id"":10855004412,
+        ""link_type"":""product""
+    }]
+},
+{
+    ""name"": ""video"",
+    ""title"": ""Watch The Galaxy Upacked"",
+    ""data"": [{
+        ""video_url"": ""https://www.youtube.com/watch?v=BSYsXVFzmKA""
+    }]
+}]",TESTCMPGN8,Success
+2,Tokopedia Merchandise,1990266,10187343,#42b549,https://images.tokopedia.net/img/exclusive-launch/bg-pattern-light.png,FALSE,"#000000
+",#FFFFFF,"[{""title"":""Traktiran Ultah!"",
+""group_order"":1},{""title"":""Spesial Buat Seller!"",
+""group_order"":2}]","[{
+    ""name"": ""display_single_column"",
+    ""ratio"": ""1:1"",
+    ""title"":""Merchandise Eksklusif"",
+    ""data"": [{
+        ""image_id"": """",
+       ""image_url"":""https://images.tokopedia.net/img/cache/850/BgtCLw/2023/8/1/aa8c81e6-32ae-4690-9490-a764d594f67e.jpg"",
+       ""link_id"":0,
+       ""link_type"":""""
+    }]
+},{
+    ""name"": ""display_single_column"",
+    ""ratio"": ""1:1"",
+    ""title"":""Perlengkapan Seller"",
+    ""data"": [{
+        ""image_id"": """",
+        ""image_url"":""https://images.tokopedia.net/img/cache/850/BgtCLw/2023/8/1/f89a4d10-88bc-45d1-9f3e-38febd93483b.jpg"",
+        ""link_id"":10628992603,
+        ""link_type"":""product""
+    }]
+}]",,Request

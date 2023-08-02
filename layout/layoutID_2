@@ -1,0 +1,123 @@
+
+{
+    "user_id": "73709207",
+    "shop_id": 1990266,
+    "master_layout_id": 15,
+    "layout_id": 0,
+    "merchant_tier_id": 1,
+    "header": "{\"bgColor\":[\"#42b549\"],\"bgImages\":[\"https://images.tokopedia.net/img/exclusive-launch/bg-pattern-light.png\"],\"textColor\":\"#000000
+\",\"isDark\":false,\"widgetHeaderStyle\":\"round\",\"widgetHeaderBgColors\":[\"#FFFFFF\"]}",
+    "widgets": [
+  {
+    "widget_id": 0,
+    "widget_master_id": 39,
+    "layout_order": 1,
+    "name": "banner_timer",
+    "type": "display",
+    "header": "{\"isActive\": 1}",
+    "data": "[]"
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 41,
+    "layout_order": 2,
+    "name": "product_highlight",
+    "type": "campaign",
+    "header": "{\"title\": \"Traktiran Ultah!\", \"isActive\": 1}",
+    "data": "[{\"linkID\": 1, \"linkType\": \"group_order\"}]"
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 42,
+    "layout_order": 3,
+    "name": "voucher",
+    "type": "voucher_slider",
+    "header": "{\"isActive\": 1}",
+    "data": "[{\"linkID\": 0, \"linkType\": \"external\"}]"
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 3,
+    "layout_order": 4,
+    "name": "display_single_column",
+    "type": "display",
+    "header": "{\"cover\": \"\", \"ratio\": \"1:1\", \"title\": \"Merchandise Eksklusif\", \"isATC\": 0, \"ctaLink\": \"\", \"ctaText\": \"\", \"isActive\": 1,\"sizeOption\": \"small\", \"isShowEtalaseName\": 0, \"isBundleAutoActive\": 0}",
+    "data": "[{\"linkType\":\"\",\"linkID\":0,\"videoURL\":\"\",\"linkName\":\"\",\"webLink\":\"\",\"imageID\": \"\", \"imageURL\": \"https://images.tokopedia.net/img/cache/850/BgtCLw/2023/8/1/aa8c81e6-32ae-4690-9490-a764d594f67e.jpg\", \"desktopImageUrl\": \"https://images.tokopedia.net/img/cache/850/BgtCLw/2023/8/1/aa8c81e6-32ae-4690-9490-a764d594f67e.jpg\"}]"
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 3,
+    "layout_order": 5,
+    "name": "display_single_column",
+    "type": "display",
+    "header": "{\"cover\": \"\", \"ratio\": \"1:1\", \"title\": \"Perlengkapan Seller\", \"isATC\": 0, \"ctaLink\": \"\", \"ctaText\": \"\", \"isActive\": 1,\"sizeOption\": \"small\", \"isShowEtalaseName\": 0, \"isBundleAutoActive\": 0}",
+    "data": "[{\"linkType\":\"product\",\"linkID\":10628992603,\"videoURL\":\"\",\"linkName\":\"\",\"webLink\":\"\",\"imageID\": \"\", \"imageURL\": \"https://images.tokopedia.net/img/cache/850/BgtCLw/2023/8/1/f89a4d10-88bc-45d1-9f3e-38febd93483b.jpg\", \"desktopImageUrl\": \"https://images.tokopedia.net/img/cache/850/BgtCLw/2023/8/1/f89a4d10-88bc-45d1-9f3e-38febd93483b.jpg\"}]"
+  },
+ 
+  {
+    "widget_id": 0,
+    "widget_master_id": 2,
+    "layout_order": 6,
+    "name": "slider_square",
+    "type": "display",
+    "header": "{\"cover\": \"\", \"ratio\": \"1:1\", \"title\": \"\", \"isATC\": 0, \"ctaLink\": \"\", \"ctaText\": \"\", \"isActive\": 0,\"sizeOption\": \"small\", \"isShowEtalaseName\": 0, \"isBundleAutoActive\": 0}",
+    "data": "[]"
+  },
+ 
+  {
+    "widget_id": 0,
+    "widget_master_id": 2,
+    "layout_order": 7,
+    "name": "slider_square",
+    "type": "display",
+    "header": "{\"cover\": \"\", \"ratio\": \"1:1\", \"title\": \"\", \"isATC\": 0, \"ctaLink\": \"\", \"ctaText\": \"\", \"isActive\": 0,\"sizeOption\": \"small\", \"isShowEtalaseName\": 0, \"isBundleAutoActive\": 0}",
+    "data": "[]"
+  },
+ 
+  {
+    "widget_id": 0,
+    "widget_master_id": 2,
+    "layout_order": 8,
+    "name": "slider_square",
+    "type": "display",
+    "header": "{\"cover\": \"\", \"ratio\": \"1:1\", \"title\": \"\", \"isATC\": 0, \"ctaLink\": \"\", \"ctaText\": \"\", \"isActive\": 0,\"sizeOption\": \"small\", \"isShowEtalaseName\": 0, \"isBundleAutoActive\": 0}",
+    "data": "[]"
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 41,
+    "layout_order": 9,
+    "name": "product_highlight",
+    "type": "campaign",
+    "header": "{\"title\": \"Spesial Buat Seller!\", \"isActive\": 1}",
+    "data": "[{\"linkID\": 2, \"linkType\": \"group_order\"}]"
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 41,
+    "layout_order": 10,
+    "name": "product_highlight",
+    "type": "campaign",
+    "header": "{\"title\": \"\", \"isActive\": 1}",
+    "data": "[{\"linkID\": 3, \"linkType\": \"group_order\"}]"
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 24,
+    "layout_order": 11,
+    "name": "play",
+    "type": "dynamic",
+    "header": "{\"title\": \"join The Epic Live\", \"isActive\": 1}",
+    "data": ""
+  },
+  {
+    "widget_id": 0,
+    "widget_master_id": 40,
+    "layout_order": 12,
+    "name": "slider_banner_highlight",
+    "type": "display",
+    "header": "{\"ratio\":\"1:1\",\"title\":\"Masih banyak produk di toko ini, lho!\",\"isATC\": 0,\"ctaText\":\"Jelajahi Toko\",\"isActive\": 1}",
+    "data": ""
+  }],
+    "status": 1
+}
